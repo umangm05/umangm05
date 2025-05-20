@@ -51,7 +51,7 @@ const Umang = {
 ## Wanna look at my STATS, Here you go,
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%2032%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -103,7 +103,7 @@ JavaScript               1 repo              ████████░░░�
 
 
 
- Last Updated on 19/05/2025 01:49:19 UTC
+ Last Updated on 20/05/2025 01:45:32 UTC
 <!--END_SECTION:waka-->
 
 
