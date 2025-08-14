@@ -79,15 +79,13 @@ Sunday                   25 commits          ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 mins              ██████████████████░░░░░░░   73.78 % 
-Git Config               0 secs              ██████░░░░░░░░░░░░░░░░░░░   23.64 % 
-JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-smart-cache              2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -101,7 +99,7 @@ CSS                      1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 13/08/2025 01:49:23 UTC
+ Last Updated on 14/08/2025 01:49:39 UTC
 <!--END_SECTION:waka-->
 
 
