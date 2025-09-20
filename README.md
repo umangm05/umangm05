@@ -52,8 +52,6 @@ const Umang = {
 ## Wanna look at my STATS, Here you go,
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-77%20hrs%2015%20mins-blue)
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -64,7 +62,7 @@ JavaScript               3 repos             ███████████�
 
 
 
- Last Updated on 19/09/2025 01:37:35 UTC
+ Last Updated on 20/09/2025 01:26:12 UTC
 <!--END_SECTION:waka-->
 
 
