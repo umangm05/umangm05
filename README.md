@@ -52,6 +52,8 @@ const Umang = {
 ## Wanna look at my STATS, Here you go,
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-78%20hrs%205%20mins-blue)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -77,13 +79,14 @@ Sunday                   61 commits          ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               1 hr 1 min          █████████████████████████   99.97 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+string-calculator-tdd-kat1 hr 1 min          █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 1 min          █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -97,7 +100,7 @@ Python                   1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 16/10/2025 01:39:19 UTC
+ Last Updated on 17/10/2025 01:38:18 UTC
 <!--END_SECTION:waka-->
 
 
