@@ -52,6 +52,42 @@ const Umang = {
 ## Wanna look at my STATS, Here you go,
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-79%20hrs%2021%20mins-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                103 commits         ██████████░░░░░░░░░░░░░░░   39.62 % 
+🌆 Daytime                90 commits          █████████░░░░░░░░░░░░░░░░   34.62 % 
+🌃 Evening                67 commits          ██████░░░░░░░░░░░░░░░░░░░   25.77 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
+Tuesday                  27 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+Wednesday                36 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+Thursday                 28 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
+Friday                   49 commits          █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
+Saturday                 37 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+Sunday                   61 commits          ██████░░░░░░░░░░░░░░░░░░░   23.46 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -63,7 +99,7 @@ Python                   1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 04/11/2025 01:43:29 UTC
+ Last Updated on 05/11/2025 01:44:38 UTC
 <!--END_SECTION:waka-->
 
 
