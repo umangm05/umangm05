@@ -52,52 +52,18 @@ const Umang = {
 ## Wanna look at my STATS, Here you go,
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                119 commits         ██████████░░░░░░░░░░░░░░░   41.61 % 
-🌆 Daytime                100 commits         █████████░░░░░░░░░░░░░░░░   34.97 % 
-🌃 Evening                67 commits          ██████░░░░░░░░░░░░░░░░░░░   23.43 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   30 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
-Tuesday                  30 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
-Wednesday                36 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
-Thursday                 28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
-Friday                   49 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
-Saturday                 45 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
-Sunday                   68 commits          ██████░░░░░░░░░░░░░░░░░░░   23.78 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               6 repos             ███████████████░░░░░░░░░░   60.00 % 
-JavaScript               3 repos             ████████░░░░░░░░░░░░░░░░░   30.00 % 
-Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+TypeScript               7 repos             ████████████████░░░░░░░░░   63.64 % 
+JavaScript               3 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
 ```
 
 
 
 
- Last Updated on 24/07/2026 02:48:10 UTC
+ Last Updated on 25/07/2026 02:47:02 UTC
 <!--END_SECTION:waka-->
 
 
