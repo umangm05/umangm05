@@ -52,50 +52,6 @@ const Umang = {
 ## Wanna look at my STATS, Here you go,
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-80%20hrs%2026%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20mins-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                126 commits         ███████████░░░░░░░░░░░░░░   42.57 % 
-🌆 Daytime                103 commits         █████████░░░░░░░░░░░░░░░░   34.80 % 
-🌃 Evening                67 commits          ██████░░░░░░░░░░░░░░░░░░░   22.64 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   30 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
-Tuesday                  30 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
-Wednesday                38 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
-Thursday                 28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
-Friday                   56 commits          █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
-Saturday                 46 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
-Sunday                   68 commits          ██████░░░░░░░░░░░░░░░░░░░   22.97 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -107,7 +63,7 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 06/08/2026 02:42:04 UTC
+ Last Updated on 07/08/2026 02:44:38 UTC
 <!--END_SECTION:waka-->
 
 
