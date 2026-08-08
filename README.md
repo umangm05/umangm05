@@ -52,18 +52,62 @@ const Umang = {
 ## Wanna look at my STATS, Here you go,
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-80%20hrs%2026%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20mins-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                378 commits         ██████████░░░░░░░░░░░░░░░   40.04 % 
+🌆 Daytime                375 commits         ██████████░░░░░░░░░░░░░░░   39.72 % 
+🌃 Evening                191 commits         █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   79 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+Tuesday                  93 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+Wednesday                115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
+Thursday                 77 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+Friday                   249 commits         ███████░░░░░░░░░░░░░░░░░░   26.38 % 
+Saturday                 165 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
+Sunday                   166 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               7 repos             ████████████████░░░░░░░░░   63.64 % 
-JavaScript               3 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
-Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+TypeScript               7 repos             ███████████████░░░░░░░░░░   58.33 % 
+JavaScript               3 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Python                   2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
 ```
 
 
 
 
- Last Updated on 07/08/2026 02:44:38 UTC
+ Last Updated on 08/08/2026 01:45:31 UTC
 <!--END_SECTION:waka-->
 
 
