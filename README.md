@@ -52,28 +52,28 @@ const Umang = {
 ## Wanna look at my STATS, Here you go,
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-91%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-97%20hrs%2037%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-12%20hrs%2034%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-18%20hrs%2045%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                378 commits         ██████████░░░░░░░░░░░░░░░   39.75 % 
-🌆 Daytime                382 commits         ██████████░░░░░░░░░░░░░░░   40.17 % 
-🌃 Evening                191 commits         █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
+🌞 Morning                378 commits         ██████████░░░░░░░░░░░░░░░   38.22 % 
+🌆 Daytime                413 commits         ██████████░░░░░░░░░░░░░░░   41.76 % 
+🌃 Evening                198 commits         █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   79 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
-Tuesday                  93 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
-Wednesday                115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-Thursday                 77 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
-Friday                   249 commits         ███████░░░░░░░░░░░░░░░░░░   26.18 % 
-Saturday                 171 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.98 % 
-Sunday                   167 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
+Monday                   105 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
+Tuesday                  93 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
+Wednesday                115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+Thursday                 77 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
+Friday                   249 commits         ██████░░░░░░░░░░░░░░░░░░░   25.18 % 
+Saturday                 183 commits         █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
+Sunday                   167 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
 ```
 
 
@@ -130,13 +130,13 @@ S                        0 lines             ░░░░░░░░░░░�
 TypeScript               7 repos             █████████████░░░░░░░░░░░░   53.85 % 
 JavaScript               3 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
 Python                   2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
 ```
 
 
 
 
- Last Updated on 10/08/2026 01:55:47 UTC
+ Last Updated on 11/08/2026 01:51:57 UTC
 <!--END_SECTION:waka-->
 
 
