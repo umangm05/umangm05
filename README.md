@@ -81,37 +81,37 @@ Sunday                   167 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 19 hrs 41 mins      █████████████░░░░░░░░░░░░   51.55 % 
-Other                    4 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
-Python                   4 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
-HTML                     2 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
-Bash                     2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+Markdown                 13 hrs 14 mins      ████████████░░░░░░░░░░░░░   49.35 % 
+Other                    2 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
+HTML                     2 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+Python                   2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+Bash                     1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
 
 🐱‍💻 Projects: 
-Unknown Project          26 hrs 25 mins      █████████████████░░░░░░░░   69.16 % 
-tmp                      2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-hermes-agent             1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
-hermes                   1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
-com194                   55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+Unknown Project          19 hrs 4 mins       ██████████████████░░░░░░░   71.08 % 
+tmp                      2 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
+hermes                   57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+kodi-backup              48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+guna-framz-v1            47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
 
 💻 Operating System: 
-Linux                    38 hrs 11 mins      █████████████████████████   100.00 % 
+Linux                    26 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 38 hrs 11 mins (100.0%)
+⏱ AI Coding Time: 26 hrs 49 mins (100.0%)
 
-✍️ 5,760 lines written by AI, 1 lines written by hand (99.98% AI-written)
+✍️ 4,830 lines written by AI, 1 lines written by hand (99.98% AI-written)
 
-🔤 58,589,521 Input Tokens, 4,368,255 Output Tokens
+🔤 46,082,951 Input Tokens, 2,820,199 Output Tokens
 
-💵 $1006.36 Estimated AI Cost This Week
+💵 $745.90 Estimated AI Cost This Week
 
-🧠 318 AI Sessions, 840 AI Prompts
+🧠 242 AI Sessions, 558 AI Prompts
 
-Hermes                   5,760 lines         █████████████████████████   100.00 % 
+Hermes                   4,830 lines         █████████████████████████   100.00 % 
 Hy                       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Xs                       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -119,8 +119,8 @@ S                        0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.98% of written lines came from AI
-📚 Verbose Prompter — average 4,980 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📚 Verbose Prompter — average 5,442 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.02% of changed lines were hand-edited
 ```
 
@@ -136,7 +136,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 13/08/2026 02:06:01 UTC
+ Last Updated on 14/08/2026 02:04:01 UTC
 <!--END_SECTION:waka-->
 
 
