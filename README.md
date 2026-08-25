@@ -59,21 +59,21 @@ const Umang = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                378 commits         █████████░░░░░░░░░░░░░░░░   37.13 % 
-🌆 Daytime                436 commits         ███████████░░░░░░░░░░░░░░   42.83 % 
-🌃 Evening                204 commits         █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
+🌞 Morning                378 commits         █████████░░░░░░░░░░░░░░░░   36.88 % 
+🌆 Daytime                442 commits         ███████████░░░░░░░░░░░░░░   43.12 % 
+🌃 Evening                205 commits         █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   121 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
-Tuesday                  93 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
-Wednesday                115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
-Thursday                 77 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
-Friday                   252 commits         ██████░░░░░░░░░░░░░░░░░░░   24.75 % 
-Saturday                 189 commits         █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
-Sunday                   171 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
+Monday                   126 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
+Tuesday                  93 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+Wednesday                115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
+Thursday                 77 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+Friday                   252 commits         ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
+Saturday                 189 commits         █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
+Sunday                   173 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
 ```
 
 
@@ -108,7 +108,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 24/08/2026 01:22:43 UTC
+ Last Updated on 25/08/2026 01:20:13 UTC
 <!--END_SECTION:waka-->
 
 
