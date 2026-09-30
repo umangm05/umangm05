@@ -59,21 +59,21 @@ const Umang = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                772 commits         ████████░░░░░░░░░░░░░░░░░   30.81 % 
-🌆 Daytime                1155 commits        ████████████░░░░░░░░░░░░░   46.09 % 
-🌃 Evening                579 commits         ██████░░░░░░░░░░░░░░░░░░░   23.10 % 
+🌞 Morning                772 commits         ████████░░░░░░░░░░░░░░░░░   30.76 % 
+🌆 Daytime                1158 commits        ████████████░░░░░░░░░░░░░   46.14 % 
+🌃 Evening                580 commits         ██████░░░░░░░░░░░░░░░░░░░   23.11 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   491 commits         █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
-Tuesday                  355 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-Wednesday                313 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
-Thursday                 242 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
-Friday                   554 commits         ██████░░░░░░░░░░░░░░░░░░░   22.11 % 
-Saturday                 234 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
-Sunday                   317 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
+Monday                   491 commits         █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
+Tuesday                  359 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+Wednesday                313 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
+Thursday                 242 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+Friday                   554 commits         ██████░░░░░░░░░░░░░░░░░░░   22.07 % 
+Saturday                 234 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
+Sunday                   317 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
 ```
 
 
@@ -99,16 +99,16 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               8 repos             █████████████░░░░░░░░░░░░   53.33 % 
-JavaScript               4 repos             ███████░░░░░░░░░░░░░░░░░░   26.67 % 
-Python                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+TypeScript               8 repos             ████████████░░░░░░░░░░░░░   50.00 % 
+JavaScript               4 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Python                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
 ```
 
 
 
 
- Last Updated on 29/09/2026 04:48:58 UTC
+ Last Updated on 30/09/2026 04:34:30 UTC
 <!--END_SECTION:waka-->
 
 
