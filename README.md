@@ -54,26 +54,26 @@ const Umang = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-97%20hrs%2037%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-18%20hrs%2045%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-22%20hrs%2047%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1832 commits        █████████░░░░░░░░░░░░░░░░   36.18 % 
-🌆 Daytime                2226 commits        ███████████░░░░░░░░░░░░░░   43.97 % 
-🌃 Evening                1005 commits        █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
+🌞 Morning                1896 commits        █████████░░░░░░░░░░░░░░░░   36.43 % 
+🌆 Daytime                2279 commits        ███████████░░░░░░░░░░░░░░   43.78 % 
+🌃 Evening                1030 commits        █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   1027 commits        █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
-Tuesday                  724 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
-Wednesday                813 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
-Thursday                 400 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
-Friday                   1238 commits        ██████░░░░░░░░░░░░░░░░░░░   24.45 % 
-Saturday                 332 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
-Sunday                   529 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
+Monday                   1051 commits        █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
+Tuesday                  744 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Wednesday                851 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
+Thursday                 407 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+Friday                   1272 commits        ██████░░░░░░░░░░░░░░░░░░░   24.44 % 
+Saturday                 340 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+Sunday                   540 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
 ```
 
 
@@ -81,45 +81,45 @@ Sunday                   529 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    37 hrs 22 mins      ████████████░░░░░░░░░░░░░   49.08 % 
-Python                   13 hrs 11 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
-Markdown                 12 hrs 35 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
-JSON                     4 hrs 32 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-Bash                     3 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+Other                    37 hrs 15 mins      ██████████████░░░░░░░░░░░   54.35 % 
+Markdown                 9 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+Python                   9 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+JSON                     4 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+Bash                     2 hrs 53 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
 
 🐱‍💻 Projects: 
-Unknown Project          51 hrs 2 mins       █████████████████░░░░░░░░   67.03 % 
-agent-hq                 9 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-common                   2 hrs 53 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
-com194                   2 hrs 47 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
-hermes                   2 hrs 11 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+Unknown Project          48 hrs 42 mins      ██████████████████░░░░░░░   71.06 % 
+agent-hq                 8 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
+common                   2 hrs 45 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+hermes                   1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+hermes-agent             1 hr 8 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 
 💻 Operating System: 
-Linux                    76 hrs 8 mins       █████████████████████████   100.00 % 
+Linux                    68 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 76 hrs 8 mins (100.0%)
+⏱ AI Coding Time: 68 hrs 32 mins (100.0%)
 
-✍️ 1,001 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 708 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 49,325,411 Input Tokens, 10,933,636 Output Tokens
+🔤 46,705,575 Input Tokens, 9,894,695 Output Tokens
 
-💵 $1727.28 Estimated AI Cost This Week
+💵 $1534.95 Estimated AI Cost This Week
 
-🧠 788 AI Sessions, 699 AI Prompts
+🧠 743 AI Sessions, 620 AI Prompts
 
-Hermes                   1,001 lines         █████████████████████████   100.00 % 
-Longcat                  0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Hermes                   708 lines           █████████████████████████   100.00 % 
 MiMo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Longcat                  0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Pro                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 18,502 characters per prompt
+📚 Verbose Prompter — average 18,953 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -136,7 +136,7 @@ HTML                     2 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 10/10/2026 04:53:30 UTC
+ Last Updated on 11/10/2026 04:40:04 UTC
 <!--END_SECTION:waka-->
 
 
