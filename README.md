@@ -59,21 +59,21 @@ const Umang = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1896 commits        █████████░░░░░░░░░░░░░░░░   36.43 % 
-🌆 Daytime                2279 commits        ███████████░░░░░░░░░░░░░░   43.78 % 
-🌃 Evening                1030 commits        █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
+🌞 Morning                1956 commits        █████████░░░░░░░░░░░░░░░░   36.58 % 
+🌆 Daytime                2337 commits        ███████████░░░░░░░░░░░░░░   43.71 % 
+🌃 Evening                1054 commits        █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   1051 commits        █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
-Tuesday                  744 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Wednesday                851 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
-Thursday                 407 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
-Friday                   1272 commits        ██████░░░░░░░░░░░░░░░░░░░   24.44 % 
-Saturday                 340 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
-Sunday                   540 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+Monday                   1075 commits        █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
+Tuesday                  764 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Wednesday                889 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
+Thursday                 414 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+Friday                   1305 commits        ██████░░░░░░░░░░░░░░░░░░░   24.41 % 
+Saturday                 344 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
+Sunday                   556 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
 ```
 
 
@@ -81,37 +81,37 @@ Sunday                   540 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    37 hrs 15 mins      ██████████████░░░░░░░░░░░   54.35 % 
-Markdown                 9 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-Python                   9 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-JSON                     4 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
-Bash                     2 hrs 53 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
+Other                    33 hrs 19 mins      ███████████████░░░░░░░░░░   59.26 % 
+Python                   7 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+Markdown                 7 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
+Bash                     2 hrs 37 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+JSON                     1 hr 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
 
 🐱‍💻 Projects: 
-Unknown Project          48 hrs 42 mins      ██████████████████░░░░░░░   71.06 % 
-agent-hq                 8 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
-common                   2 hrs 45 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
-hermes                   1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
-hermes-agent             1 hr 8 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+Unknown Project          42 hrs 23 mins      ███████████████████░░░░░░   75.38 % 
+agent-hq                 6 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
+common                   1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+hermes                   1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+hermes-agent             1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
 
 💻 Operating System: 
-Linux                    68 hrs 32 mins      █████████████████████████   100.00 % 
+Linux                    56 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 68 hrs 32 mins (100.0%)
+⏱ AI Coding Time: 56 hrs 14 mins (100.0%)
 
-✍️ 708 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 456 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 46,705,575 Input Tokens, 9,894,695 Output Tokens
+🔤 42,888,457 Input Tokens, 8,270,815 Output Tokens
 
-💵 $1534.95 Estimated AI Cost This Week
+💵 $1183.22 Estimated AI Cost This Week
 
-🧠 743 AI Sessions, 620 AI Prompts
+🧠 634 AI Sessions, 486 AI Prompts
 
-Hermes                   708 lines           █████████████████████████   100.00 % 
+Hermes                   456 lines           █████████████████████████   100.00 % 
 MiMo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Longcat                  0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -119,7 +119,7 @@ Pro                      0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 18,953 characters per prompt
+📚 Verbose Prompter — average 18,511 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -136,7 +136,7 @@ HTML                     2 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 11/10/2026 04:40:04 UTC
+ Last Updated on 12/10/2026 04:55:32 UTC
 <!--END_SECTION:waka-->
 
 
