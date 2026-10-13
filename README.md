@@ -81,47 +81,47 @@ Sunday                   556 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    33 hrs 19 mins      ███████████████░░░░░░░░░░   59.26 % 
-Python                   7 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-Markdown                 7 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
-Bash                     2 hrs 37 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
-JSON                     1 hr 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+Other                    28 hrs 34 mins      ███████████████░░░░░░░░░░   59.04 % 
+Markdown                 7 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
+Python                   4 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+Bash                     2 hrs 35 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+Dart                     1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
 
 🐱‍💻 Projects: 
-Unknown Project          42 hrs 23 mins      ███████████████████░░░░░░   75.38 % 
-agent-hq                 6 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-common                   1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
-hermes                   1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
-hermes-agent             1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+Unknown Project          33 hrs 37 mins      █████████████████░░░░░░░░   69.48 % 
+mayamd_backend           4 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
+agent-hq                 4 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+common                   1 hr 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+hermes-agent             52 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
 
 💻 Operating System: 
-Linux                    56 hrs 14 mins      █████████████████████████   100.00 % 
+Linux                    48 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 56 hrs 14 mins (100.0%)
+⏱ AI Coding Time: 48 hrs 12 mins (99.62%)
 
-✍️ 456 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 932 lines written by AI, 1 lines written by hand (99.89% AI-written)
 
-🔤 42,888,457 Input Tokens, 8,270,815 Output Tokens
+🔤 41,663,317 Input Tokens, 6,770,879 Output Tokens
 
-💵 $1183.22 Estimated AI Cost This Week
+💵 $912.00 Estimated AI Cost This Week
 
-🧠 634 AI Sessions, 486 AI Prompts
+🧠 552 AI Sessions, 419 AI Prompts
 
-Hermes                   456 lines           █████████████████████████   100.00 % 
+Opus                     537 lines           ██████████████░░░░░░░░░░░   57.62 % 
+Hermes                   395 lines           ███████████░░░░░░░░░░░░░░   42.38 % 
 MiMo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Longcat                  0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Pro                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 18,511 characters per prompt
+🤖 AI-Driven — 99.89% of written lines came from AI
+📚 Verbose Prompter — average 16,291 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🚀 High AI Trust — 5.86% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -136,7 +136,7 @@ HTML                     2 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 12/10/2026 04:55:32 UTC
+ Last Updated on 13/10/2026 05:57:26 UTC
 <!--END_SECTION:waka-->
 
 
