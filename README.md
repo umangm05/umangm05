@@ -52,26 +52,26 @@ const Umang = {
 ## Wanna look at my STATS, Here you go,
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-108%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-114%20hrs%2021%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-36%20hrs%2027%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-41%20hrs%2012%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2080 commits        █████████░░░░░░░░░░░░░░░░   36.93 % 
-🌆 Daytime                2450 commits        ███████████░░░░░░░░░░░░░░   43.49 % 
-🌃 Evening                1103 commits        █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
+🌞 Morning                2082 commits        █████████░░░░░░░░░░░░░░░░   36.95 % 
+🌆 Daytime                2450 commits        ███████████░░░░░░░░░░░░░░   43.48 % 
+🌃 Evening                1103 commits        █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   1123 commits        █████░░░░░░░░░░░░░░░░░░░░   19.94 % 
+Monday                   1123 commits        █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
 Tuesday                  808 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
 Wednesday                968 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
-Thursday                 430 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-Friday                   1371 commits        ██████░░░░░░░░░░░░░░░░░░░   24.34 % 
+Thursday                 432 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
+Friday                   1371 commits        ██████░░░░░░░░░░░░░░░░░░░   24.33 % 
 Saturday                 352 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
 Sunday                   581 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
 ```
@@ -81,47 +81,47 @@ Sunday                   581 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    18 hrs 13 mins      ████████░░░░░░░░░░░░░░░░░   32.90 % 
-Markdown                 14 hrs 29 mins      ███████░░░░░░░░░░░░░░░░░░   26.15 % 
-Python                   5 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
-Text                     5 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
-JavaScript               4 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+Markdown                 15 hrs 41 mins      ████████░░░░░░░░░░░░░░░░░   31.00 % 
+Other                    14 hrs 48 mins      ███████░░░░░░░░░░░░░░░░░░   29.25 % 
+Text                     5 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
+JavaScript               5 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
+Python                   4 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
 
 🐱‍💻 Projects: 
-mayamd_backend           33 hrs 28 mins      ███████████████░░░░░░░░░░   60.43 % 
-agent-hq                 3 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
-hermes                   2 hrs 59 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-common                   2 hrs 50 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
-Unknown Project          2 hrs 22 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+mayamd_backend           33 hrs 7 mins       ████████████████░░░░░░░░░   65.47 % 
+knowledge-base           3 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
+hermes                   2 hrs 24 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+agent-hq                 1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+common                   1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
 
 💻 Operating System: 
-Linux                    55 hrs 23 mins      █████████████████████████   100.00 % 
+Linux                    50 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 52 hrs 43 mins (95.2%)
+⏱ AI Coding Time: 47 hrs 32 mins (93.97%)
 
-✍️ 8,216 lines written by AI, 117 lines written by hand (98.6% AI-written)
+✍️ 11,257 lines written by AI, 121 lines written by hand (98.94% AI-written)
 
-🔤 48,326,107 Input Tokens, 3,407,908 Output Tokens
+🔤 41,500,117 Input Tokens, 2,429,893 Output Tokens
 
-💵 $358.12 Estimated AI Cost This Week
+💵 $158.07 Estimated AI Cost This Week
 
-🧠 622 AI Sessions, 880 AI Prompts
+🧠 573 AI Sessions, 844 AI Prompts
 
-Sonnet                   4,974 lines         ███████████████░░░░░░░░░░   59.99 % 
-Opus                     2,687 lines         ████████░░░░░░░░░░░░░░░░░   32.41 % 
-Hermes                   630 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
-MiMo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   7,620 lines         █████████████████░░░░░░░░   67.21 % 
+Opus                     2,687 lines         ██████░░░░░░░░░░░░░░░░░░░   23.70 % 
+Hermes                   911 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
+Gemini                   120 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.6% of written lines came from AI
-📚 Verbose Prompter — average 17,846 characters per prompt
+🤖 AI-Driven — 98.94% of written lines came from AI
+📚 Verbose Prompter — average 16,765 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 2.53% of changed lines were hand-edited
+🚀 High AI Trust — 2.01% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -136,7 +136,7 @@ HTML                     2 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 15/10/2026 03:42:19 UTC
+ Last Updated on 16/10/2026 03:38:34 UTC
 <!--END_SECTION:waka-->
 
 
