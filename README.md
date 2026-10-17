@@ -52,28 +52,28 @@ const Umang = {
 ## Wanna look at my STATS, Here you go,
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-114%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-119%20hrs%2033%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-41%20hrs%2012%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-47%20hrs%2033%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2082 commits        █████████░░░░░░░░░░░░░░░░   36.95 % 
-🌆 Daytime                2450 commits        ███████████░░░░░░░░░░░░░░   43.48 % 
-🌃 Evening                1103 commits        █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
+🌞 Morning                2208 commits        █████████░░░░░░░░░░░░░░░░   37.27 % 
+🌆 Daytime                2565 commits        ███████████░░░░░░░░░░░░░░   43.29 % 
+🌃 Evening                1152 commits        █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   1123 commits        █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
-Tuesday                  808 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-Wednesday                968 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
-Thursday                 432 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
-Friday                   1371 commits        ██████░░░░░░░░░░░░░░░░░░░   24.33 % 
-Saturday                 352 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Sunday                   581 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
+Monday                   1171 commits        █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
+Tuesday                  850 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
+Wednesday                1046 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+Thursday                 450 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+Friday                   1441 commits        ██████░░░░░░░░░░░░░░░░░░░   24.32 % 
+Saturday                 360 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+Sunday                   607 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
 ```
 
 
@@ -81,47 +81,47 @@ Sunday                   581 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 15 hrs 41 mins      ████████░░░░░░░░░░░░░░░░░   31.00 % 
-Other                    14 hrs 48 mins      ███████░░░░░░░░░░░░░░░░░░   29.25 % 
-Text                     5 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
-JavaScript               5 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
-Python                   4 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
+Markdown                 11 hrs 26 mins      ███████░░░░░░░░░░░░░░░░░░   28.65 % 
+Other                    9 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   24.94 % 
+JavaScript               6 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
+Text                     5 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
+Python                   2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
 
 🐱‍💻 Projects: 
-mayamd_backend           33 hrs 7 mins       ████████████████░░░░░░░░░   65.47 % 
-knowledge-base           3 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
-hermes                   2 hrs 24 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-agent-hq                 1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
-common                   1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+mayamd_backend           28 hrs              ██████████████████░░░░░░░   70.16 % 
+knowledge-base           3 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
+mayamd_client            1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+c846739f15ed             1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+agent-hq                 1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
 
 💻 Operating System: 
-Linux                    50 hrs 35 mins      █████████████████████████   100.00 % 
+Linux                    39 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 47 hrs 32 mins (93.97%)
+⏱ AI Coding Time: 36 hrs 32 mins (91.55%)
 
-✍️ 11,257 lines written by AI, 121 lines written by hand (98.94% AI-written)
+✍️ 11,867 lines written by AI, 123 lines written by hand (98.97% AI-written)
 
-🔤 41,500,117 Input Tokens, 2,429,893 Output Tokens
+🔤 26,383,934 Input Tokens, 2,038,767 Output Tokens
 
-💵 $158.07 Estimated AI Cost This Week
+💵 $148.39 Estimated AI Cost This Week
 
-🧠 573 AI Sessions, 844 AI Prompts
+🧠 432 AI Sessions, 626 AI Prompts
 
-Sonnet                   7,620 lines         █████████████████░░░░░░░░   67.21 % 
-Opus                     2,687 lines         ██████░░░░░░░░░░░░░░░░░░░   23.70 % 
-Hermes                   911 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
-Gemini                   120 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
-Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   7,808 lines         ████████████████░░░░░░░░░   65.35 % 
+Opus                     3,239 lines         ███████░░░░░░░░░░░░░░░░░░   27.11 % 
+Hermes                   781 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+Gemini                   120 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+Longcat                  0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.94% of written lines came from AI
-📚 Verbose Prompter — average 16,765 characters per prompt
+🤖 AI-Driven — 98.97% of written lines came from AI
+📚 Verbose Prompter — average 16,053 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 2.01% of changed lines were hand-edited
+🚀 High AI Trust — 1.95% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -136,7 +136,7 @@ HTML                     2 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 16/10/2026 03:38:34 UTC
+ Last Updated on 17/10/2026 03:28:12 UTC
 <!--END_SECTION:waka-->
 
 
