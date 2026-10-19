@@ -52,28 +52,28 @@ const Umang = {
 ## Wanna look at my STATS, Here you go,
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-121%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-127%20hrs%208%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-49%20hrs%2045%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-56%20hrs%2046%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                634 commits         ██████████░░░░░░░░░░░░░░░   38.01 % 
-🌆 Daytime                704 commits         ███████████░░░░░░░░░░░░░░   42.21 % 
-🌃 Evening                328 commits         █████░░░░░░░░░░░░░░░░░░░░   19.66 % 
-🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+🌞 Morning                1071 commits        ██████████░░░░░░░░░░░░░░░   39.20 % 
+🌆 Daytime                1154 commits        ███████████░░░░░░░░░░░░░░   42.24 % 
+🌃 Evening                505 commits         █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
+🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   305 commits         █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
-Tuesday                  213 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
-Wednesday                316 commits         █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
-Thursday                 116 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
-Friday                   362 commits         █████░░░░░░░░░░░░░░░░░░░░   21.70 % 
-Saturday                 151 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
-Sunday                   205 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
+Monday                   460 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
+Tuesday                  348 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
+Wednesday                561 commits         █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
+Thursday                 171 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+Friday                   603 commits         ██████░░░░░░░░░░░░░░░░░░░   22.07 % 
+Saturday                 199 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
+Sunday                   390 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
 ```
 
 
@@ -81,47 +81,47 @@ Sunday                   205 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 12 hrs 25 mins      ███████░░░░░░░░░░░░░░░░░░   27.76 % 
-Other                    10 hrs 38 mins      ██████░░░░░░░░░░░░░░░░░░░   23.77 % 
-JavaScript               7 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
-Text                     5 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
-Bash                     2 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
+Markdown                 11 hrs 18 mins      ███████░░░░░░░░░░░░░░░░░░   29.90 % 
+Other                    8 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   21.90 % 
+JavaScript               7 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   20.82 % 
+Text                     3 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
+Bash                     2 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
 
 🐱‍💻 Projects: 
-mayamd_backend           26 hrs 49 mins      ███████████████░░░░░░░░░░   59.93 % 
-mayamd                   3 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
-knowledge-base           3 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
-mayamd_client            2 hrs 20 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
-c846739f15ed             1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+mayamd_backend           21 hrs 6 mins       ██████████████░░░░░░░░░░░   55.83 % 
+mayamd                   3 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+knowledge-base           3 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
+mayamd_client            2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+c846739f15ed             1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
 
 💻 Operating System: 
-Linux                    44 hrs 46 mins      █████████████████████████   100.00 % 
+Linux                    37 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 41 hrs 1 min (91.64%)
+⏱ AI Coding Time: 34 hrs 3 mins (90.09%)
 
-✍️ 12,954 lines written by AI, 133 lines written by hand (98.98% AI-written)
+✍️ 12,808 lines written by AI, 133 lines written by hand (98.97% AI-written)
 
-🔤 28,377,649 Input Tokens, 2,356,867 Output Tokens
+🔤 22,422,274 Input Tokens, 2,085,831 Output Tokens
 
-💵 $231.92 Estimated AI Cost This Week
+💵 $212.56 Estimated AI Cost This Week
 
-🧠 494 AI Sessions, 735 AI Prompts
+🧠 412 AI Sessions, 633 AI Prompts
 
-Sonnet                   7,808 lines         ███████████████░░░░░░░░░░   59.90 % 
-Opus                     3,382 lines         ██████░░░░░░░░░░░░░░░░░░░   25.95 % 
-Hermes                   1,725 lines         ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
-Gemini                   120 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+Sonnet                   7,808 lines         ███████████████░░░░░░░░░░   60.58 % 
+Opus                     3,382 lines         ███████░░░░░░░░░░░░░░░░░░   26.24 % 
+Hermes                   1,579 lines         ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+Gemini                   120 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 Longcat                  0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.98% of written lines came from AI
-📚 Verbose Prompter — average 15,679 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 1.95% of changed lines were hand-edited
+🤖 AI-Driven — 98.97% of written lines came from AI
+📚 Verbose Prompter — average 14,866 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 1.97% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -129,14 +129,15 @@ Longcat                  0 lines             ░░░░░░░░░░░�
 ```text
 TypeScript               8 repos             ████████████░░░░░░░░░░░░░   47.06 % 
 HTML                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-Python                   3 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
 JavaScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+Python                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 ```
 
 
 
 
- Last Updated on 18/10/2026 03:33:58 UTC
+ Last Updated on 19/10/2026 03:44:33 UTC
 <!--END_SECTION:waka-->
 
 
