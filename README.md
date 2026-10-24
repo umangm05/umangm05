@@ -52,28 +52,28 @@ const Umang = {
 ## Wanna look at my STATS, Here you go,
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-129%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-129%20hrs%2049%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-57%20hrs%2054%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-58%20hrs%2035%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                951 commits         ██████████░░░░░░░░░░░░░░░   38.21 % 
-🌆 Daytime                1069 commits        ███████████░░░░░░░░░░░░░░   42.95 % 
-🌃 Evening                466 commits         █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
-🌙 Night                  3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+🌞 Morning                1462 commits        ██████████░░░░░░░░░░░░░░░   38.49 % 
+🌆 Daytime                1635 commits        ███████████░░░░░░░░░░░░░░   43.05 % 
+🌃 Evening                698 commits         █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
+🌙 Night                  3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   430 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
-Tuesday                  332 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
-Wednesday                479 commits         █████░░░░░░░░░░░░░░░░░░░░   19.24 % 
-Thursday                 230 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
-Friday                   503 commits         █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
-Saturday                 169 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
-Sunday                   346 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
+Monday                   626 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
+Tuesday                  514 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+Wednesday                759 commits         █████░░░░░░░░░░░░░░░░░░░░   19.98 % 
+Thursday                 391 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
+Friday                   769 commits         █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
+Saturday                 211 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Sunday                   528 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
 ```
 
 
@@ -81,47 +81,47 @@ Sunday                   346 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               5 hrs 9 mins        ██████████░░░░░░░░░░░░░░░   39.44 % 
-Other                    2 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
-Bash                     1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
-Markdown                 1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
-Python                   50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+JavaScript               4 hrs 20 mins       ██████████░░░░░░░░░░░░░░░   39.08 % 
+Other                    2 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
+Markdown                 1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+Bash                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+Python                   50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
 
 🐱‍💻 Projects: 
-mayamd_backend           5 hrs 29 mins       ███████████░░░░░░░░░░░░░░   42.01 % 
-mayamd                   3 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   26.88 % 
-mayamd_client            1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
-tmp                      34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
-scripts                  29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+mayamd_backend           4 hrs 14 mins       ██████████░░░░░░░░░░░░░░░   38.18 % 
+mayamd                   3 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   31.63 % 
+mayamd_client            57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
+scripts                  29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+utility-helpers          23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
 
 💻 Operating System: 
-Linux                    13 hrs 4 mins       █████████████████████████   100.00 % 
+Linux                    11 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 4 mins (84.68%)
+⏱ AI Coding Time: 9 hrs 23 mins (84.45%)
 
-✍️ 2,045 lines written by AI, 26 lines written by hand (98.74% AI-written)
+✍️ 1,305 lines written by AI, 24 lines written by hand (98.19% AI-written)
 
-🔤 6,263,224 Input Tokens, 830,398 Output Tokens
+🔤 4,921,979 Input Tokens, 623,968 Output Tokens
 
-💵 $115.31 Estimated AI Cost This Week
+💵 $103.98 Estimated AI Cost This Week
 
-🧠 118 AI Sessions, 217 AI Prompts
+🧠 104 AI Sessions, 197 AI Prompts
 
-Hermes                   946 lines           ████████████░░░░░░░░░░░░░   46.26 % 
-Opus                     882 lines           ███████████░░░░░░░░░░░░░░   43.13 % 
-Sonnet                   188 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
-Vscode                   29 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+Hermes                   946 lines           ██████████████████░░░░░░░   72.49 % 
+Opus                     330 lines           ██████░░░░░░░░░░░░░░░░░░░   25.29 % 
+Vscode                   29 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 Longcat                  0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.74% of written lines came from AI
-📚 Verbose Prompter — average 12,979 characters per prompt
+🤖 AI-Driven — 98.19% of written lines came from AI
+📚 Verbose Prompter — average 12,751 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 2.57% of changed lines were hand-edited
+🚀 High AI Trust — 3.62% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -137,7 +137,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/10/2026 03:50:00 UTC
+ Last Updated on 24/10/2026 03:44:40 UTC
 <!--END_SECTION:waka-->
 
 
