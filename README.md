@@ -59,21 +59,21 @@ const Umang = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1690 commits        ██████████░░░░░░░░░░░░░░░   38.62 % 
-🌆 Daytime                1883 commits        ███████████░░░░░░░░░░░░░░   43.03 % 
-🌃 Evening                800 commits         █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
-🌙 Night                  3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+🌞 Morning                1922 commits        ██████████░░░░░░░░░░░░░░░   38.73 % 
+🌆 Daytime                2135 commits        ███████████░░░░░░░░░░░░░░   43.03 % 
+🌃 Evening                902 commits         █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+🌙 Night                  3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   710 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-Tuesday                  592 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
-Wednesday                879 commits         █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
-Thursday                 460 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
-Friday                   886 commits         █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
-Saturday                 243 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
-Sunday                   606 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+Monday                   794 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+Tuesday                  670 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+Wednesday                999 commits         █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
+Thursday                 529 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
+Friday                   1003 commits        █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
+Saturday                 276 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Sunday                   691 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
 ```
 
 
@@ -81,39 +81,39 @@ Sunday                   606 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               2 hrs 49 mins       ███████████████████░░░░░░   75.96 % 
-Other                    29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-Bash                     24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+JavaScript               2 hrs 58 mins       ███████████████████░░░░░░   75.44 % 
+Other                    29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+Bash                     28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
 
 🐱‍💻 Projects: 
-mayamd_backend           3 hrs 9 mins        █████████████████████░░░░   84.84 % 
-mayamd_client            21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-mayamd                   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+mayamd_backend           3 hrs 22 mins       █████████████████████░░░░   85.68 % 
+mayamd_client            21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
+mayamd                   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
 
 💻 Operating System: 
-Linux                    3 hrs 43 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 22 mins (63.59%)
+⏱ AI Coding Time: 2 hrs 24 mins (61.12%)
 
-✍️ 187 lines written by AI, 14 lines written by hand (93.03% AI-written)
+✍️ 187 lines written by AI, 19 lines written by hand (90.78% AI-written)
 
-🔤 999,443 Input Tokens, 232,952 Output Tokens
+🔤 1,100,119 Input Tokens, 237,390 Output Tokens
 
-💵 $17.82 Estimated AI Cost This Week
+💵 $18.37 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 39 AI Prompts
+🧠 6 AI Sessions, 40 AI Prompts
 
 Opus                     187 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.03% of written lines came from AI
-📚 Verbose Prompter — average 1,798 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 13.02% of changed lines were hand-edited
+🤖 AI-Driven — 90.78% of written lines came from AI
+📚 Verbose Prompter — average 1,756 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 16.14% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -129,7 +129,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/10/2026 03:42:50 UTC
+ Last Updated on 26/10/2026 03:46:36 UTC
 <!--END_SECTION:waka-->
 
 
